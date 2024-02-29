@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "money_tracking",
+    "slug": "money_tracking",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/img_logo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#122332"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/img_logo.png",
+        "backgroundColor": "#122332"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
